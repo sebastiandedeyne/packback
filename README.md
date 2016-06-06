@@ -6,6 +6,14 @@
 
 **WORK IN PROGRESS**
 
+- [x] Input & output registration
+- [x] Loader & plugin registration
+- [x] Babel by default
+- [ ] PostCSS setup
+- [ ] Extract CSS
+- [ ] Dev server
+- [ ] Production builds
+
 ## Install
 
 ```bash
